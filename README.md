@@ -3,4 +3,6 @@
 
 [LintCode——918](https://github.com/a784511652/The-anwser-of-Lintcode/blob/master/src/main/java/com/example/demo/lintcode/Lintcode_918.java)  
 [LintCode——149](https://github.com/a784511652/The-anwser-of-Lintcode/blob/master/src/main/java/com/example/demo/lintcode/Lintcode_149.java)  
-[LintCode——384](https://github.com/a784511652/The-anwser-of-Lintcode/blob/master/src/main/java/com/example/demo/lintcode/Lintcode_384.java)
+[LintCode——384](https://github.com/a784511652/The-anwser-of-Lintcode/blob/master/src/main/java/com/example/demo/lintcode/Lintcode_384.java)  
+[LintCode——54](https://github.com/a784511652/The-anwser-of-Lintcode/blob/master/src/main/java/com/example/demo/lintcode/Lintcode_54.java)
+
