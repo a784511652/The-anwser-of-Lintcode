@@ -6,3 +6,7 @@
 [LintCode——384](https://github.com/a784511652/The-anwser-of-Lintcode/blob/master/src/main/java/com/example/demo/lintcode/Lintcode_384.java)  
 [LintCode——54](https://github.com/a784511652/The-anwser-of-Lintcode/blob/master/src/main/java/com/example/demo/lintcode/Lintcode_54.java)
 
+链表相关（千万不要或者尽量不要把值放到栈里，然后反向弹出，接着遍历得到。就跟你写了双重检查的单例一样，面试基本是凉了）   
+[LintCode——35](https://github.com/a784511652/The-anwser-of-Lintcode/blob/master/src/main/java/com/example/demo/lintcode/Lintcode_35.java)  
+[LintCode——36](https://github.com/a784511652/The-anwser-of-Lintcode/blob/master/src/main/java/com/example/demo/lintcode/Lintcode_36.java)
+
