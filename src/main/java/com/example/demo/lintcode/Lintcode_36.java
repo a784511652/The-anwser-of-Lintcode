@@ -9,6 +9,15 @@ import java.util.List;
  * @time： 16:27
  * @project_name： demo
  * @Description ：
+ *
+ *  解题思路 三个指针，p_pre头指针：m-1的指针
+ *                  p_end   这里虽然是head.next 但是经过调转之后，这里就变成了最后一个位置的数。
+ *                  第三个指针 也就是不断在m到n之间不断转换的指针。
+ *
+ *  ps：因为都是浅复制  所以dummy.next直接得到原地转换的head  进行返回。这里困扰了我好久，只能苦叹还是基础不扎实的原因
+ *
+ *  另外  java只有值传递  没有引用传递
+
  */
 
 public class Lintcode_36 {
