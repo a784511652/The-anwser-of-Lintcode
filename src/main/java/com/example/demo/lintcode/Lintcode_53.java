@@ -13,7 +13,7 @@ import java.util.List;
 
 public class Lintcode_53 {
 
-    public String reverseWords(String s) {
+    private String reverseWords(String s) {
         // write your code here
         String[] list = s.split(" ");
         StringBuilder stringBuilder = new StringBuilder();
