@@ -47,4 +47,5 @@ public class Lintcode_384 {
         }
         return maxLength;
     }
+
 }
